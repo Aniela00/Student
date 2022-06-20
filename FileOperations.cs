@@ -9,7 +9,7 @@ using System.IO;
 
 namespace Students
 {
-    public class FileOperations : IFileOperations
+    public class FileOperations 
     {
         string path = @"./jsonFolder/Students.json";
 
